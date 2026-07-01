@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "1056",
+    "problemTitle": "Capacity To Ship Packages Within D Days",
+    "problemSlug": "capacity-to-ship-packages-within-d-days",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "9 ms",
+    "memory": "35 MB",
+    "submissionId": "2052484615",
+    "timestamp": "1782918055",
+    "path": "Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp"
+  }
+]
