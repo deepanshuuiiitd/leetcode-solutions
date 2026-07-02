@@ -11,5 +11,18 @@
     "submissionId": "2052484615",
     "timestamp": "1782918055",
     "path": "Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp"
+  },
+  {
+    "problemId": "907",
+    "problemTitle": "Koko Eating Bananas",
+    "problemSlug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "15 ms",
+    "memory": "22.9 MB",
+    "submissionId": "2053516602",
+    "timestamp": "1782996163",
+    "path": "Medium/0907_Koko_Eating_Bananas.cpp"
   }
 ]
