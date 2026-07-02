@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 1
+Total Solved: 2
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 1
 
 ## Medium
 
+- Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
 - Capacity To Ship Packages Within D Days ([C++](Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp))
 
 ## Hard
@@ -19,7 +20,7 @@ Total Solved: 1
 | Difficulty | Count |
 |------------|--------|
 | Easy | 0 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
