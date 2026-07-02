@@ -24,5 +24,18 @@
     "submissionId": "2053516602",
     "timestamp": "1782996163",
     "path": "Medium/0907_Koko_Eating_Bananas.cpp"
+  },
+  {
+    "problemId": "1605",
+    "problemTitle": "Minimum Number of Days to Make m Bouquets",
+    "problemSlug": "minimum-number-of-days-to-make-m-bouquets",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "26 ms",
+    "memory": "70.5 MB",
+    "submissionId": "2053892588",
+    "timestamp": "1783016552",
+    "path": "Medium/1605_Minimum_Number_of_Days_to_Make_m_Bouquets.cpp"
   }
 ]
