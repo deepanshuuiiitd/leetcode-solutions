@@ -37,5 +37,18 @@
     "submissionId": "2053892588",
     "timestamp": "1783016552",
     "path": "Medium/1605_Minimum_Number_of_Days_to_Make_m_Bouquets.cpp"
+  },
+  {
+    "problemId": "1408",
+    "problemTitle": "Find the Smallest Divisor Given a Threshold",
+    "problemSlug": "find-the-smallest-divisor-given-a-threshold",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "11 ms",
+    "memory": "26.1 MB",
+    "submissionId": "2053973976",
+    "timestamp": "1783022666",
+    "path": "Medium/1408_Find_the_Smallest_Divisor_Given_a_Threshold.cpp"
   }
 ]
