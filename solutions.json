@@ -76,5 +76,18 @@
     "submissionId": "2054462487",
     "timestamp": "1783069773",
     "path": "Hard/0410_Split_Array_Largest_Sum.cpp"
+  },
+  {
+    "problemId": "74",
+    "problemTitle": "Search a 2D Matrix",
+    "problemSlug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.4 MB",
+    "submissionId": "2054706417",
+    "timestamp": "1783085830",
+    "path": "Medium/0074_Search_a_2D_Matrix.cpp"
   }
 ]
