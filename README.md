@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 7
 ## Medium
 
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
+- Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
 - Capacity To Ship Packages Within D Days ([C++](Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp))
 - Find the Smallest Divisor Given a Threshold ([C++](Medium/1408_Find_the_Smallest_Divisor_Given_a_Threshold.cpp))
@@ -23,7 +24,7 @@ Total Solved: 7
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 1 |
 
 ---
