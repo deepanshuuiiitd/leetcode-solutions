@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
-*No easy problems solved yet.*
+- Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 
 ## Medium
 
@@ -21,7 +21,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 4 |
 | Hard | 0 |
 
