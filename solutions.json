@@ -63,5 +63,18 @@
     "submissionId": "2054330502",
     "timestamp": "1783061672",
     "path": "Easy/1646_Kth_Missing_Positive_Number.cpp"
+  },
+  {
+    "problemId": "410",
+    "problemTitle": "Split Array Largest Sum",
+    "problemSlug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "3 ms",
+    "memory": "10.5 MB",
+    "submissionId": "2054462487",
+    "timestamp": "1783069773",
+    "path": "Hard/0410_Split_Array_Largest_Sum.cpp"
   }
 ]
