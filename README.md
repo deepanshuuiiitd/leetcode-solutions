@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -15,7 +15,7 @@ Total Solved: 5
 
 ## Hard
 
-*No hard problems solved yet.*
+- Split Array Largest Sum ([C++](Hard/0410_Split_Array_Largest_Sum.cpp))
 
 ## Statistics
 
@@ -23,7 +23,7 @@ Total Solved: 5
 |------------|--------|
 | Easy | 1 |
 | Medium | 4 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
