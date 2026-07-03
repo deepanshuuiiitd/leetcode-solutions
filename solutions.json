@@ -50,5 +50,18 @@
     "submissionId": "2053973976",
     "timestamp": "1783022666",
     "path": "Medium/1408_Find_the_Smallest_Divisor_Given_a_Threshold.cpp"
+  },
+  {
+    "problemId": "1646",
+    "problemTitle": "Kth Missing Positive Number",
+    "problemSlug": "kth-missing-positive-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.4 MB",
+    "submissionId": "2054330502",
+    "timestamp": "1783061672",
+    "path": "Easy/1646_Kth_Missing_Positive_Number.cpp"
   }
 ]
