@@ -89,5 +89,18 @@
     "submissionId": "2054706417",
     "timestamp": "1783085830",
     "path": "Medium/0074_Search_a_2D_Matrix.cpp"
+  },
+  {
+    "problemId": "240",
+    "problemTitle": "Search a 2D Matrix II",
+    "problemSlug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "53 ms",
+    "memory": "18.7 MB",
+    "submissionId": "2054717814",
+    "timestamp": "1783086594",
+    "path": "Medium/0240_Search_a_2D_Matrix_II.cpp"
   }
 ]
