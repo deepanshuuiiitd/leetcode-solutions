@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 12
+Total Solved: 13
 
 ## Easy
 
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
+- Reverse String ([C++](Easy/0344_Reverse_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
@@ -27,7 +28,7 @@ Total Solved: 12
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 4 |
+| Easy | 5 |
 | Medium | 7 |
 | Hard | 1 |
 
