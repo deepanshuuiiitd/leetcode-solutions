@@ -141,5 +141,18 @@
     "submissionId": "2055775142",
     "timestamp": "1783174559",
     "path": "Easy/0383_Ransom_Note.cpp"
+  },
+  {
+    "problemId": "2032",
+    "problemTitle": "Largest Odd Number in String",
+    "problemSlug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.8 MB",
+    "submissionId": "2055809987",
+    "timestamp": "1783175948",
+    "path": "Easy/2032_Largest_Odd_Number_in_String.cpp"
   }
 ]
