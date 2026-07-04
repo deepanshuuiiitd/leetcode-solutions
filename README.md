@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
+- Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 
 ## Medium
@@ -25,7 +26,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 7 |
 | Hard | 1 |
 
