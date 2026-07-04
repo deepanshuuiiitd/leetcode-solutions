@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 9
+Total Solved: 10
 
 ## Easy
 
+- Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 
 ## Medium
@@ -24,7 +25,7 @@ Total Solved: 9
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 7 |
 | Hard | 1 |
 
