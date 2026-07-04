@@ -115,5 +115,18 @@
     "submissionId": "2055441935",
     "timestamp": "1783151414",
     "path": "Medium/2047_Find_a_Peak_Element_II.cpp"
+  },
+  {
+    "problemId": "242",
+    "problemTitle": "Valid Anagram",
+    "problemSlug": "valid-anagram",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.7 MB",
+    "submissionId": "2055699029",
+    "timestamp": "1783169195",
+    "path": "Easy/0242_Valid_Anagram.cpp"
   }
 ]
