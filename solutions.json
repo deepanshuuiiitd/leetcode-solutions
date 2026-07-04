@@ -154,5 +154,18 @@
     "submissionId": "2055809987",
     "timestamp": "1783175948",
     "path": "Easy/2032_Largest_Odd_Number_in_String.cpp"
+  },
+  {
+    "problemId": "344",
+    "problemTitle": "Reverse String",
+    "problemSlug": "reverse-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.3 MB",
+    "submissionId": "2056036054",
+    "timestamp": "1783183316",
+    "path": "Easy/0344_Reverse_String.cpp"
   }
 ]
