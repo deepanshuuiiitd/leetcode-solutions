@@ -102,5 +102,18 @@
     "submissionId": "2054717814",
     "timestamp": "1783086594",
     "path": "Medium/0240_Search_a_2D_Matrix_II.cpp"
+  },
+  {
+    "problemId": "2047",
+    "problemTitle": "Find a Peak Element II",
+    "problemSlug": "find-a-peak-element-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "50.2 MB",
+    "submissionId": "2055441935",
+    "timestamp": "1783151414",
+    "path": "Medium/2047_Find_a_Peak_Element_II.cpp"
   }
 ]
