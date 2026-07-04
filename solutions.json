@@ -128,5 +128,18 @@
     "submissionId": "2055699029",
     "timestamp": "1783169195",
     "path": "Easy/0242_Valid_Anagram.cpp"
+  },
+  {
+    "problemId": "383",
+    "problemTitle": "Ransom Note",
+    "problemSlug": "ransom-note",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.6 MB",
+    "submissionId": "2055775142",
+    "timestamp": "1783174559",
+    "path": "Easy/0383_Ransom_Note.cpp"
   }
 ]
