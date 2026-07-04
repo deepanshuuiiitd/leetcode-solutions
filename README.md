@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
+- Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 
 ## Medium
 
@@ -26,7 +27,7 @@ Total Solved: 11
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 7 |
 | Hard | 1 |
 
