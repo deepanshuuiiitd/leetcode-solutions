@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 8
 - Capacity To Ship Packages Within D Days ([C++](Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp))
 - Find the Smallest Divisor Given a Threshold ([C++](Medium/1408_Find_the_Smallest_Divisor_Given_a_Threshold.cpp))
 - Minimum Number of Days to Make m Bouquets ([C++](Medium/1605_Minimum_Number_of_Days_to_Make_m_Bouquets.cpp))
+- Find a Peak Element II ([C++](Medium/2047_Find_a_Peak_Element_II.cpp))
 
 ## Hard
 
@@ -24,7 +25,7 @@ Total Solved: 8
 | Difficulty | Count |
 |------------|--------|
 | Easy | 1 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 1 |
 
 ---
