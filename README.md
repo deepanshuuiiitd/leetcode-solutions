@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
+- Ugly Number ([C++](Easy/0263_Ugly_Number.cpp))
 - Reverse String ([C++](Easy/0344_Reverse_String.cpp))
 - Reverse Vowels of a String ([C++](Easy/0345_Reverse_Vowels_of_a_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
@@ -31,7 +32,7 @@ Total Solved: 16
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 7 |
 | Hard | 1 |
 
