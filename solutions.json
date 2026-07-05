@@ -193,5 +193,18 @@
     "submissionId": "2056778216",
     "timestamp": "1783245982",
     "path": "Easy/0345_Reverse_Vowels_of_a_String.cpp"
+  },
+  {
+    "problemId": "2231",
+    "problemTitle": "Find First Palindromic String in the Array",
+    "problemSlug": "find-first-palindromic-string-in-the-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.5 MB",
+    "submissionId": "2057006081",
+    "timestamp": "1783261908",
+    "path": "Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp"
   }
 ]
