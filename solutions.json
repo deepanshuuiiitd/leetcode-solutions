@@ -206,5 +206,18 @@
     "submissionId": "2057006081",
     "timestamp": "1783261908",
     "path": "Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp"
+  },
+  {
+    "problemId": "263",
+    "problemTitle": "Ugly Number",
+    "problemSlug": "ugly-number",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8 MB",
+    "submissionId": "2057300809",
+    "timestamp": "1783279919",
+    "path": "Easy/0263_Ugly_Number.cpp"
   }
 ]
