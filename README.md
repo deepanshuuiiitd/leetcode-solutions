@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 17
 - Reverse Vowels of a String ([C++](Easy/0345_Reverse_Vowels_of_a_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
+- Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
@@ -32,7 +33,7 @@ Total Solved: 17
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 7 |
 | Hard | 1 |
 
