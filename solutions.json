@@ -167,5 +167,18 @@
     "submissionId": "2056036054",
     "timestamp": "1783183316",
     "path": "Easy/0344_Reverse_String.cpp"
+  },
+  {
+    "problemId": "680",
+    "problemTitle": "Valid Palindrome II",
+    "problemSlug": "valid-palindrome-ii",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.2 MB",
+    "submissionId": "2056750427",
+    "timestamp": "1783243896",
+    "path": "Easy/0680_Valid_Palindrome_II.cpp"
   }
 ]
