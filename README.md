@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 14
+Total Solved: 15
 
 ## Easy
 
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Reverse String ([C++](Easy/0344_Reverse_String.cpp))
+- Reverse Vowels of a String ([C++](Easy/0345_Reverse_Vowels_of_a_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
@@ -29,7 +30,7 @@ Total Solved: 14
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 7 |
 | Hard | 1 |
 
