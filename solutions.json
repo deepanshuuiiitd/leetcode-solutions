@@ -219,5 +219,18 @@
     "submissionId": "2057300809",
     "timestamp": "1783279919",
     "path": "Easy/0263_Ugly_Number.cpp"
+  },
+  {
+    "problemId": "1603",
+    "problemTitle": "Running Sum of 1d Array",
+    "problemSlug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.7 MB",
+    "submissionId": "2057312977",
+    "timestamp": "1783281099",
+    "path": "Easy/1603_Running_Sum_of_1d_Array.cpp"
   }
 ]
