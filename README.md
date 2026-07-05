@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 15
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
+- Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
 
 ## Medium
 
@@ -30,7 +31,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 7 |
 | Hard | 1 |
 
