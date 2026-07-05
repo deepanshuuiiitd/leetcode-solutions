@@ -180,5 +180,18 @@
     "submissionId": "2056750427",
     "timestamp": "1783243896",
     "path": "Easy/0680_Valid_Palindrome_II.cpp"
+  },
+  {
+    "problemId": "345",
+    "problemTitle": "Reverse Vowels of a String",
+    "problemSlug": "reverse-vowels-of-a-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.2 MB",
+    "submissionId": "2056778216",
+    "timestamp": "1783245982",
+    "path": "Easy/0345_Reverse_Vowels_of_a_String.cpp"
   }
 ]
