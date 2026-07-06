@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 23
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
+- Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
 
 ## Medium
@@ -38,7 +39,7 @@ Total Solved: 23
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 15 |
+| Easy | 16 |
 | Medium | 7 |
 | Hard | 1 |
 
