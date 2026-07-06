@@ -271,5 +271,18 @@
     "submissionId": "2057812975",
     "timestamp": "1783328382",
     "path": "Easy/0387_First_Unique_Character_in_a_String.cpp"
+  },
+  {
+    "problemId": "412",
+    "problemTitle": "Fizz Buzz",
+    "problemSlug": "fizz-buzz",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.8 MB",
+    "submissionId": "2057828112",
+    "timestamp": "1783329221",
+    "path": "Easy/0412_Fizz_Buzz.cpp"
   }
 ]
