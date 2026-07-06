@@ -258,5 +258,18 @@
     "submissionId": "2057758139",
     "timestamp": "1783325148",
     "path": "Easy/1791_Richest_Customer_Wealth.cpp"
+  },
+  {
+    "problemId": "387",
+    "problemTitle": "First Unique Character in a String",
+    "problemSlug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "14.6 MB",
+    "submissionId": "2057812975",
+    "timestamp": "1783328382",
+    "path": "Easy/0387_First_Unique_Character_in_a_String.cpp"
   }
 ]
