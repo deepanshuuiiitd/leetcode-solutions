@@ -310,5 +310,18 @@
     "submissionId": "2058045124",
     "timestamp": "1783342416",
     "path": "Easy/2058_Concatenation_of_Array.cpp"
+  },
+  {
+    "problemId": "1833",
+    "problemTitle": "Find the Highest Altitude",
+    "problemSlug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.9 MB",
+    "submissionId": "2058049481",
+    "timestamp": "1783342672",
+    "path": "Easy/1833_Find_the_Highest_Altitude.cpp"
   }
 ]
