@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 24
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
+- Find the Highest Altitude ([C++](Easy/1833_Find_the_Highest_Altitude.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 - Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
@@ -39,7 +40,7 @@ Total Solved: 24
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 7 |
 | Hard | 1 |
 
