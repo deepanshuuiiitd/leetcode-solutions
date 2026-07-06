@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 20
 - Reverse String ([C++](Easy/0344_Reverse_String.cpp))
 - Reverse Vowels of a String ([C++](Easy/0345_Reverse_Vowels_of_a_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
+- First Unique Character in a String ([C++](Easy/0387_First_Unique_Character_in_a_String.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
@@ -35,7 +36,7 @@ Total Solved: 20
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 7 |
 | Hard | 1 |
 
