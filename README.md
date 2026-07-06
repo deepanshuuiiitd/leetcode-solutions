@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 23
 
 ## Easy
 
@@ -10,8 +10,10 @@ Total Solved: 21
 - Reverse Vowels of a String ([C++](Easy/0345_Reverse_Vowels_of_a_String.cpp))
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - First Unique Character in a String ([C++](Easy/0387_First_Unique_Character_in_a_String.cpp))
+- Fizz Buzz ([C++](Easy/0412_Fizz_Buzz.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
+- Shuffle the Array ([C++](Easy/1580_Shuffle_the_Array.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
@@ -36,7 +38,7 @@ Total Solved: 21
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 13 |
+| Easy | 15 |
 | Medium | 7 |
 | Hard | 1 |
 
