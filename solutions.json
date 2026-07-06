@@ -297,5 +297,18 @@
     "submissionId": "2058028744",
     "timestamp": "1783341406",
     "path": "Easy/1580_Shuffle_the_Array.cpp"
+  },
+  {
+    "problemId": "2058",
+    "problemTitle": "Concatenation of Array",
+    "problemSlug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.6 MB",
+    "submissionId": "2058044655",
+    "timestamp": "1783342389",
+    "path": "Easy/2058_Concatenation_of_Array.cpp"
   }
 ]
