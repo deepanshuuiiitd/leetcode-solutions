@@ -284,5 +284,18 @@
     "submissionId": "2057828112",
     "timestamp": "1783329221",
     "path": "Easy/0412_Fizz_Buzz.cpp"
+  },
+  {
+    "problemId": "1580",
+    "problemTitle": "Shuffle the Array",
+    "problemSlug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "8 ms",
+    "memory": "13.4 MB",
+    "submissionId": "2058028744",
+    "timestamp": "1783341406",
+    "path": "Easy/1580_Shuffle_the_Array.cpp"
   }
 ]
