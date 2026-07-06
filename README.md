@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 19
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
+- Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
 
@@ -34,7 +35,7 @@ Total Solved: 19
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 7 |
 | Hard | 1 |
 
