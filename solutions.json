@@ -323,5 +323,18 @@
     "submissionId": "2058049481",
     "timestamp": "1783342672",
     "path": "Easy/1833_Find_the_Highest_Altitude.cpp"
+  },
+  {
+    "problemId": "1635",
+    "problemTitle": "Number of Good Pairs",
+    "problemSlug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.8 MB",
+    "submissionId": "2058055221",
+    "timestamp": "1783343008",
+    "path": "Easy/1635_Number_of_Good_Pairs.cpp"
   }
 ]
