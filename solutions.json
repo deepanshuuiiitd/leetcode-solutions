@@ -245,5 +245,18 @@
     "submissionId": "2057747964",
     "timestamp": "1783324488",
     "path": "Easy/0812_Rotate_String.cpp"
+  },
+  {
+    "problemId": "1791",
+    "problemTitle": "Richest Customer Wealth",
+    "problemSlug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.3 MB",
+    "submissionId": "2057758139",
+    "timestamp": "1783325148",
+    "path": "Easy/1791_Richest_Customer_Wealth.cpp"
   }
 ]
