@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 25
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
 - Shuffle the Array ([C++](Easy/1580_Shuffle_the_Array.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
+- Number of Good Pairs ([C++](Easy/1635_Number_of_Good_Pairs.cpp))
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
 - Find the Highest Altitude ([C++](Easy/1833_Find_the_Highest_Altitude.cpp))
@@ -40,7 +41,7 @@ Total Solved: 25
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 7 |
 | Hard | 1 |
 
