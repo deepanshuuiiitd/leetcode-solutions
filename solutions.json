@@ -336,5 +336,18 @@
     "submissionId": "2058055221",
     "timestamp": "1783343008",
     "path": "Easy/1635_Number_of_Good_Pairs.cpp"
+  },
+  {
+    "problemId": "2048",
+    "problemTitle": "Build Array from Permutation",
+    "problemSlug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "20.3 MB",
+    "submissionId": "2058078038",
+    "timestamp": "1783344332",
+    "path": "Easy/2048_Build_Array_from_Permutation.cpp"
   }
 ]
