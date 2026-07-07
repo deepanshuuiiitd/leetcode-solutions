@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -36,6 +36,7 @@ Total Solved: 27
 
 ## Hard
 
+- Trapping Rain Water ([C++](Hard/0042_Trapping_Rain_Water.cpp))
 - Split Array Largest Sum ([C++](Hard/0410_Split_Array_Largest_Sum.cpp))
 
 ## Statistics
@@ -44,7 +45,7 @@ Total Solved: 27
 |------------|--------|
 | Easy | 19 |
 | Medium | 7 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
