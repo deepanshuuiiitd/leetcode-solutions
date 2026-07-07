@@ -401,5 +401,18 @@
     "submissionId": "2059566919",
     "timestamp": "1783442969",
     "path": "Easy/0027_Remove_Element.cpp"
+  },
+  {
+    "problemId": "66",
+    "problemTitle": "Plus One",
+    "problemSlug": "plus-one",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.5 MB",
+    "submissionId": "2059583961",
+    "timestamp": "1783443746",
+    "path": "Easy/0066_Plus_One.cpp"
   }
 ]
