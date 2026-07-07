@@ -440,5 +440,18 @@
     "submissionId": "2059711598",
     "timestamp": "1783450288",
     "path": "Easy/1086_Divisor_Game.cpp"
+  },
+  {
+    "problemId": "520",
+    "problemTitle": "Detect Capital",
+    "problemSlug": "detect-capital",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "submissionId": "2059726287",
+    "timestamp": "1783451346",
+    "path": "Easy/0520_Detect_Capital.cpp"
   }
 ]
