@@ -453,5 +453,18 @@
     "submissionId": "2059726287",
     "timestamp": "1783451346",
     "path": "Easy/0520_Detect_Capital.cpp"
+  },
+  {
+    "problemId": "231",
+    "problemTitle": "Power of Two",
+    "problemSlug": "power-of-two",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "submissionId": "2059729901",
+    "timestamp": "1783451613",
+    "path": "Easy/0231_Power_of_Two.cpp"
   }
 ]
