@@ -375,5 +375,18 @@
     "submissionId": "2059495089",
     "timestamp": "1783439567",
     "path": "Easy/1894_Merge_Strings_Alternately.cpp"
+  },
+  {
+    "problemId": "58",
+    "problemTitle": "Length of Last Word",
+    "problemSlug": "length-of-last-word",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "2 ms",
+    "memory": "8.9 MB",
+    "submissionId": "2059507471",
+    "timestamp": "1783440157",
+    "path": "Easy/0058_Length_of_Last_Word.cpp"
   }
 ]
