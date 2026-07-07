@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
+- Remove Element ([C++](Easy/0027_Remove_Element.cpp))
 - Length of Last Word ([C++](Easy/0058_Length_of_Last_Word.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Ugly Number ([C++](Easy/0263_Ugly_Number.cpp))
@@ -45,7 +46,7 @@ Total Solved: 30
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 7 |
 | Hard | 2 |
 
