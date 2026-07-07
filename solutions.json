@@ -349,5 +349,18 @@
     "submissionId": "2059139315",
     "timestamp": "1783419310",
     "path": "Easy/2048_Build_Array_from_Permutation.cpp"
+  },
+  {
+    "problemId": "42",
+    "problemTitle": "Trapping Rain Water",
+    "problemSlug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "26 MB",
+    "submissionId": "2059246466",
+    "timestamp": "1783425985",
+    "path": "Hard/0042_Trapping_Rain_Water.cpp"
   }
 ]
