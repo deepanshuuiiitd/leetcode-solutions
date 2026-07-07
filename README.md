@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 33
+Total Solved: 34
 
 ## Easy
 
@@ -16,6 +16,7 @@ Total Solved: 33
 - Fizz Buzz ([C++](Easy/0412_Fizz_Buzz.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
+- Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Shuffle the Array ([C++](Easy/1580_Shuffle_the_Array.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
 - Number of Good Pairs ([C++](Easy/1635_Number_of_Good_Pairs.cpp))
@@ -48,7 +49,7 @@ Total Solved: 33
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 24 |
+| Easy | 25 |
 | Medium | 7 |
 | Hard | 2 |
 
