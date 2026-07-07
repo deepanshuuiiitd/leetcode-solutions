@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -19,6 +19,7 @@ Total Solved: 28
 - Kth Missing Positive Number ([C++](Easy/1646_Kth_Missing_Positive_Number.cpp))
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
 - Find the Highest Altitude ([C++](Easy/1833_Find_the_Highest_Altitude.cpp))
+- Merge Strings Alternately ([C++](Easy/1894_Merge_Strings_Alternately.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 - Build Array from Permutation ([C++](Easy/2048_Build_Array_from_Permutation.cpp))
 - Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
@@ -43,7 +44,7 @@ Total Solved: 28
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 19 |
+| Easy | 20 |
 | Medium | 7 |
 | Hard | 2 |
 
