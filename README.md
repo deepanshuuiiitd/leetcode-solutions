@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 34
 - Ransom Note ([C++](Easy/0383_Ransom_Note.cpp))
 - First Unique Character in a String ([C++](Easy/0387_First_Unique_Character_in_a_String.cpp))
 - Fizz Buzz ([C++](Easy/0412_Fizz_Buzz.cpp))
+- Detect Capital ([C++](Easy/0520_Detect_Capital.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
 - Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
@@ -49,7 +50,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 25 |
+| Easy | 26 |
 | Medium | 7 |
 | Hard | 2 |
 
