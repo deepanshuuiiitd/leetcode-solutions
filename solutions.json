@@ -362,5 +362,18 @@
     "submissionId": "2059246466",
     "timestamp": "1783425985",
     "path": "Hard/0042_Trapping_Rain_Water.cpp"
+  },
+  {
+    "problemId": "1894",
+    "problemTitle": "Merge Strings Alternately",
+    "problemSlug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "8.5 MB",
+    "submissionId": "2059495089",
+    "timestamp": "1783439567",
+    "path": "Easy/1894_Merge_Strings_Alternately.cpp"
   }
 ]
