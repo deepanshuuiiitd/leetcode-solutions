@@ -414,5 +414,18 @@
     "submissionId": "2059583961",
     "timestamp": "1783443746",
     "path": "Easy/0066_Plus_One.cpp"
+  },
+  {
+    "problemId": "4135",
+    "problemTitle": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "problemSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.4 MB",
+    "submissionId": "2059618000",
+    "timestamp": "1783445305",
+    "path": "Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp"
   }
 ]
