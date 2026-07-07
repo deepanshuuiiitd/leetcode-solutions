@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 32
+Total Solved: 33
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 32
 - Build Array from Permutation ([C++](Easy/2048_Build_Array_from_Permutation.cpp))
 - Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
+- Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
 ## Medium
 
@@ -47,7 +48,7 @@ Total Solved: 32
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 23 |
+| Easy | 24 |
 | Medium | 7 |
 | Hard | 2 |
 
