@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
 - Remove Element ([C++](Easy/0027_Remove_Element.cpp))
 - Length of Last Word ([C++](Easy/0058_Length_of_Last_Word.cpp))
+- Plus One ([C++](Easy/0066_Plus_One.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Ugly Number ([C++](Easy/0263_Ugly_Number.cpp))
 - Reverse String ([C++](Easy/0344_Reverse_String.cpp))
@@ -46,7 +47,7 @@ Total Solved: 31
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 7 |
 | Hard | 2 |
 
