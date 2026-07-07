@@ -388,5 +388,18 @@
     "submissionId": "2059507471",
     "timestamp": "1783440157",
     "path": "Easy/0058_Length_of_Last_Word.cpp"
+  },
+  {
+    "problemId": "27",
+    "problemTitle": "Remove Element",
+    "problemSlug": "remove-element",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.8 MB",
+    "submissionId": "2059566919",
+    "timestamp": "1783442969",
+    "path": "Easy/0027_Remove_Element.cpp"
   }
 ]
