@@ -479,5 +479,18 @@
     "submissionId": "2060114645",
     "timestamp": "1783492017",
     "path": "Easy/2219_Maximum_Number_of_Words_Found_in_Sentences.cpp"
+  },
+  {
+    "problemId": "3",
+    "problemTitle": "Longest Substring Without Repeating Characters",
+    "problemSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.8 MB",
+    "submissionId": "2060706979",
+    "timestamp": "1783525685",
+    "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp"
   }
 ]
