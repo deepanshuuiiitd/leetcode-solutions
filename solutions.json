@@ -492,5 +492,18 @@
     "submissionId": "2060706979",
     "timestamp": "1783525685",
     "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp"
+  },
+  {
+    "problemId": "1987",
+    "problemTitle": "Substrings of Size Three with Distinct Characters",
+    "problemSlug": "substrings-of-size-three-with-distinct-characters",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2060745871",
+    "timestamp": "1783527617",
+    "path": "Easy/1987_Substrings_of_Size_Three_with_Distinct_Characters.cpp"
   }
 ]
