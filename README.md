@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -26,6 +26,7 @@ Total Solved: 38
 - Richest Customer Wealth ([C++](Easy/1791_Richest_Customer_Wealth.cpp))
 - Find the Highest Altitude ([C++](Easy/1833_Find_the_Highest_Altitude.cpp))
 - Merge Strings Alternately ([C++](Easy/1894_Merge_Strings_Alternately.cpp))
+- Substrings of Size Three with Distinct Characters ([C++](Easy/1987_Substrings_of_Size_Three_with_Distinct_Characters.cpp))
 - Largest Odd Number in String ([C++](Easy/2032_Largest_Odd_Number_in_String.cpp))
 - Build Array from Permutation ([C++](Easy/2048_Build_Array_from_Permutation.cpp))
 - Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
@@ -53,7 +54,7 @@ Total Solved: 38
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 28 |
+| Easy | 29 |
 | Medium | 8 |
 | Hard | 2 |
 
