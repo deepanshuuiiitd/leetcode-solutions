@@ -505,5 +505,18 @@
     "submissionId": "2060745871",
     "timestamp": "1783527617",
     "path": "Easy/1987_Substrings_of_Size_Three_with_Distinct_Characters.cpp"
+  },
+  {
+    "problemId": "1567",
+    "problemTitle": "Maximum Number of Vowels in a Substring of Given Length",
+    "problemSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "10 ms",
+    "memory": "13.2 MB",
+    "submissionId": "2060760300",
+    "timestamp": "1783528288",
+    "path": "Medium/1567_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.cpp"
   }
 ]
