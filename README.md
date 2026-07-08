@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -35,6 +35,7 @@ Total Solved: 37
 
 ## Medium
 
+- Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
@@ -53,7 +54,7 @@ Total Solved: 37
 | Difficulty | Count |
 |------------|--------|
 | Easy | 28 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 2 |
 
 ---
