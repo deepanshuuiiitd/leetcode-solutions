@@ -531,5 +531,18 @@
     "submissionId": "2062100621",
     "timestamp": "1783620835",
     "path": "Medium/0147_Insertion_Sort_List.cpp"
+  },
+  {
+    "problemId": "86",
+    "problemTitle": "Partition List",
+    "problemSlug": "partition-list",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "submissionId": "2063211773",
+    "timestamp": "1783708126",
+    "path": "Medium/0086_Partition_List.cpp"
   }
 ]
