@@ -570,5 +570,18 @@
     "submissionId": "2063282618",
     "timestamp": "1783714041",
     "path": "Easy/0083_Remove_Duplicates_from_Sorted_List.cpp"
+  },
+  {
+    "problemId": "82",
+    "problemTitle": "Remove Duplicates from Sorted List II",
+    "problemSlug": "remove-duplicates-from-sorted-list-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.9 MB",
+    "submissionId": "2063333287",
+    "timestamp": "1783722149",
+    "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp"
   }
 ]
