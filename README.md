@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 43
+Total Solved: 44
 
 ## Easy
 
 - Remove Element ([C++](Easy/0027_Remove_Element.cpp))
 - Length of Last Word ([C++](Easy/0058_Length_of_Last_Word.cpp))
 - Plus One ([C++](Easy/0066_Plus_One.cpp))
+- Remove Duplicates from Sorted List ([C++](Easy/0083_Remove_Duplicates_from_Sorted_List.cpp))
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
@@ -58,7 +59,7 @@ Total Solved: 43
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 11 |
 | Hard | 2 |
 
