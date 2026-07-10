@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -40,6 +40,7 @@ Total Solved: 44
 
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
+- Remove Duplicates from Sorted List II ([C++](Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp))
 - Partition List ([C++](Medium/0086_Partition_List.cpp))
 - Insertion Sort List ([C++](Medium/0147_Insertion_Sort_List.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
@@ -60,7 +61,7 @@ Total Solved: 44
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 2 |
 
 ---
