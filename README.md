@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 40
+Total Solved: 42
 
 ## Easy
 
@@ -38,6 +38,8 @@ Total Solved: 40
 
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
+- Partition List ([C++](Medium/0086_Partition_List.cpp))
+- Insertion Sort List ([C++](Medium/0147_Insertion_Sort_List.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
 - Capacity To Ship Packages Within D Days ([C++](Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp))
@@ -56,7 +58,7 @@ Total Solved: 40
 | Difficulty | Count |
 |------------|--------|
 | Easy | 29 |
-| Medium | 9 |
+| Medium | 11 |
 | Hard | 2 |
 
 ---
