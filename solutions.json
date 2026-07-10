@@ -544,5 +544,18 @@
     "submissionId": "2063211773",
     "timestamp": "1783708126",
     "path": "Medium/0086_Partition_List.cpp"
+  },
+  {
+    "problemId": "203",
+    "problemTitle": "Remove Linked List Elements",
+    "problemSlug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "20.3 MB",
+    "submissionId": "2063263525",
+    "timestamp": "1783712057",
+    "path": "Easy/0203_Remove_Linked_List_Elements.cpp"
   }
 ]
