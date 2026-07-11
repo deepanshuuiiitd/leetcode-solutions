@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 48
 - Length of Last Word ([C++](Easy/0058_Length_of_Last_Word.cpp))
 - Plus One ([C++](Easy/0066_Plus_One.cpp))
 - Remove Duplicates from Sorted List ([C++](Easy/0083_Remove_Duplicates_from_Sorted_List.cpp))
+- Linked List Cycle ([C++](Easy/0141_Linked_List_Cycle.cpp))
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
@@ -63,7 +64,7 @@ Total Solved: 48
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 14 |
 | Hard | 2 |
 
