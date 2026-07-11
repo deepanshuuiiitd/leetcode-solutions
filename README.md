@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 51
 - Linked List Cycle ([C++](Easy/0141_Linked_List_Cycle.cpp))
 - Intersection of Two Linked Lists ([C++](Easy/0160_Intersection_of_Two_Linked_Lists.cpp))
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
+- Reverse Linked List ([C++](Easy/0206_Reverse_Linked_List.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Ugly Number ([C++](Easy/0263_Ugly_Number.cpp))
@@ -66,7 +67,7 @@ Total Solved: 51
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 34 |
+| Easy | 35 |
 | Medium | 15 |
 | Hard | 2 |
 
