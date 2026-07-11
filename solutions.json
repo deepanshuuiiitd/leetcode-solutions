@@ -583,5 +583,18 @@
     "submissionId": "2063333287",
     "timestamp": "1783722149",
     "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp"
+  },
+  {
+    "problemId": "19",
+    "problemTitle": "Remove Nth Node From End of List",
+    "problemSlug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "submissionId": "2063703618",
+    "timestamp": "1783762094",
+    "path": "Medium/0019_Remove_Nth_Node_From_End_of_List.cpp"
   }
 ]
