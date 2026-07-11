@@ -656,10 +656,10 @@
     "difficulty": "Easy",
     "language": "C++",
     "extension": "cpp",
-    "runtime": "56 ms",
-    "memory": "23.8 MB",
-    "submissionId": "2064129414",
-    "timestamp": "1783790933",
+    "runtime": "58 ms",
+    "memory": "24 MB",
+    "submissionId": "2064162693",
+    "timestamp": "1783792687",
     "path": "Easy/0160_Intersection_of_Two_Linked_Lists.cpp"
   }
 ]
