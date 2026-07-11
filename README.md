@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 50
+Total Solved: 51
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 50
 - Plus One ([C++](Easy/0066_Plus_One.cpp))
 - Remove Duplicates from Sorted List ([C++](Easy/0083_Remove_Duplicates_from_Sorted_List.cpp))
 - Linked List Cycle ([C++](Easy/0141_Linked_List_Cycle.cpp))
+- Intersection of Two Linked Lists ([C++](Easy/0160_Intersection_of_Two_Linked_Lists.cpp))
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
@@ -65,7 +66,7 @@ Total Solved: 50
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 15 |
 | Hard | 2 |
 
