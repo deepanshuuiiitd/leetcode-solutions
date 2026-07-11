@@ -609,5 +609,18 @@
     "submissionId": "2063718482",
     "timestamp": "1783763128",
     "path": "Medium/0237_Delete_Node_in_a_Linked_List.cpp"
+  },
+  {
+    "problemId": "908",
+    "problemTitle": "Middle of the Linked List",
+    "problemSlug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.1 MB",
+    "submissionId": "2063792895",
+    "timestamp": "1783768244",
+    "path": "Easy/0908_Middle_of_the_Linked_List.cpp"
   }
 ]
