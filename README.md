@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 49
+Total Solved: 50
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 49
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Remove Duplicates from Sorted List II ([C++](Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp))
 - Partition List ([C++](Medium/0086_Partition_List.cpp))
+- Linked List Cycle II ([C++](Medium/0142_Linked_List_Cycle_II.cpp))
 - Insertion Sort List ([C++](Medium/0147_Insertion_Sort_List.cpp))
 - Delete Node in a Linked List ([C++](Medium/0237_Delete_Node_in_a_Linked_List.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
@@ -65,7 +66,7 @@ Total Solved: 49
 | Difficulty | Count |
 |------------|--------|
 | Easy | 33 |
-| Medium | 14 |
+| Medium | 15 |
 | Hard | 2 |
 
 ---
