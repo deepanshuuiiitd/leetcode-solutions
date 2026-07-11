@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -20,6 +20,7 @@ Total Solved: 47
 - Detect Capital ([C++](Easy/0520_Detect_Capital.cpp))
 - Valid Palindrome II ([C++](Easy/0680_Valid_Palindrome_II.cpp))
 - Rotate String ([C++](Easy/0812_Rotate_String.cpp))
+- Middle of the Linked List ([C++](Easy/0908_Middle_of_the_Linked_List.cpp))
 - Divisor Game ([C++](Easy/1086_Divisor_Game.cpp))
 - Shuffle the Array ([C++](Easy/1580_Shuffle_the_Array.cpp))
 - Running Sum of 1d Array ([C++](Easy/1603_Running_Sum_of_1d_Array.cpp))
@@ -62,7 +63,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 14 |
 | Hard | 2 |
 
