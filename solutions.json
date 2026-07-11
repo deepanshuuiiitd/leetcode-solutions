@@ -635,5 +635,18 @@
     "submissionId": "2063805747",
     "timestamp": "1783769139",
     "path": "Easy/0141_Linked_List_Cycle.cpp"
+  },
+  {
+    "problemId": "142",
+    "problemTitle": "Linked List Cycle II",
+    "problemSlug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "5 ms",
+    "memory": "11.4 MB",
+    "submissionId": "2063811179",
+    "timestamp": "1783769527",
+    "path": "Medium/0142_Linked_List_Cycle_II.cpp"
   }
 ]
