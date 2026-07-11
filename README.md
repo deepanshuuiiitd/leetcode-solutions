@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 46
+Total Solved: 47
 
 ## Easy
 
@@ -44,6 +44,7 @@ Total Solved: 46
 - Remove Duplicates from Sorted List II ([C++](Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp))
 - Partition List ([C++](Medium/0086_Partition_List.cpp))
 - Insertion Sort List ([C++](Medium/0147_Insertion_Sort_List.cpp))
+- Delete Node in a Linked List ([C++](Medium/0237_Delete_Node_in_a_Linked_List.cpp))
 - Search a 2D Matrix II ([C++](Medium/0240_Search_a_2D_Matrix_II.cpp))
 - Koko Eating Bananas ([C++](Medium/0907_Koko_Eating_Bananas.cpp))
 - Capacity To Ship Packages Within D Days ([C++](Medium/1056_Capacity_To_Ship_Packages_Within_D_Days.cpp))
@@ -62,7 +63,7 @@ Total Solved: 46
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 2 |
 
 ---
