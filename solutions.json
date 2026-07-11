@@ -648,5 +648,18 @@
     "submissionId": "2063811179",
     "timestamp": "1783769527",
     "path": "Medium/0142_Linked_List_Cycle_II.cpp"
+  },
+  {
+    "problemId": "160",
+    "problemTitle": "Intersection of Two Linked Lists",
+    "problemSlug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "56 ms",
+    "memory": "23.8 MB",
+    "submissionId": "2064129414",
+    "timestamp": "1783790933",
+    "path": "Easy/0160_Intersection_of_Two_Linked_Lists.cpp"
   }
 ]
