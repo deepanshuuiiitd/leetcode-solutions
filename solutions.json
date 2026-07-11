@@ -661,5 +661,18 @@
     "submissionId": "2064162693",
     "timestamp": "1783792687",
     "path": "Easy/0160_Intersection_of_Two_Linked_Lists.cpp"
+  },
+  {
+    "problemId": "206",
+    "problemTitle": "Reverse Linked List",
+    "problemSlug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.2 MB",
+    "submissionId": "2064301533",
+    "timestamp": "1783804284",
+    "path": "Easy/0206_Reverse_Linked_List.cpp"
   }
 ]
