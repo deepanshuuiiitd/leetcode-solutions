@@ -596,5 +596,18 @@
     "submissionId": "2063712697",
     "timestamp": "1783762727",
     "path": "Medium/0019_Remove_Nth_Node_From_End_of_List.cpp"
+  },
+  {
+    "problemId": "237",
+    "problemTitle": "Delete Node in a Linked List",
+    "problemSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "6 ms",
+    "memory": "12.2 MB",
+    "submissionId": "2063718482",
+    "timestamp": "1783763128",
+    "path": "Medium/0237_Delete_Node_in_a_Linked_List.cpp"
   }
 ]
