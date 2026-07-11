@@ -592,9 +592,9 @@
     "language": "C++",
     "extension": "cpp",
     "runtime": "0 ms",
-    "memory": "14.9 MB",
-    "submissionId": "2063703618",
-    "timestamp": "1783762094",
+    "memory": "15 MB",
+    "submissionId": "2063712697",
+    "timestamp": "1783762727",
     "path": "Medium/0019_Remove_Nth_Node_From_End_of_List.cpp"
   }
 ]
