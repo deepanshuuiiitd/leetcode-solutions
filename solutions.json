@@ -674,5 +674,18 @@
     "submissionId": "2064301533",
     "timestamp": "1783804284",
     "path": "Easy/0206_Reverse_Linked_List.cpp"
+  },
+  {
+    "problemId": "92",
+    "problemTitle": "Reverse Linked List II",
+    "problemSlug": "reverse-linked-list-ii",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.3 MB",
+    "submissionId": "2065148679",
+    "timestamp": "1783870362",
+    "path": "Medium/0092_Reverse_Linked_List_II.cpp"
   }
 ]
