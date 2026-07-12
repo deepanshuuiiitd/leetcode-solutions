@@ -687,5 +687,18 @@
     "submissionId": "2065148679",
     "timestamp": "1783870362",
     "path": "Medium/0092_Reverse_Linked_List_II.cpp"
+  },
+  {
+    "problemId": "24",
+    "problemTitle": "Swap Nodes in Pairs",
+    "problemSlug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.2 MB",
+    "submissionId": "2065246334",
+    "timestamp": "1783875832",
+    "path": "Medium/0024_Swap_Nodes_in_Pairs.cpp"
   }
 ]
