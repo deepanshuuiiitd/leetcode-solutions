@@ -700,5 +700,18 @@
     "submissionId": "2065246334",
     "timestamp": "1783875832",
     "path": "Medium/0024_Swap_Nodes_in_Pairs.cpp"
+  },
+  {
+    "problemId": "234",
+    "problemTitle": "Palindrome Linked List",
+    "problemSlug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "4 ms",
+    "memory": "118.1 MB",
+    "submissionId": "2066546952",
+    "timestamp": "1783967356",
+    "path": "Easy/0234_Palindrome_Linked_List.cpp"
   }
 ]
