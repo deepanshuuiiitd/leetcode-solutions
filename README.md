@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 54
+Total Solved: 55
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 54
 - Remove Linked List Elements ([C++](Easy/0203_Remove_Linked_List_Elements.cpp))
 - Reverse Linked List ([C++](Easy/0206_Reverse_Linked_List.cpp))
 - Power of Two ([C++](Easy/0231_Power_of_Two.cpp))
+- Palindrome Linked List ([C++](Easy/0234_Palindrome_Linked_List.cpp))
 - Valid Anagram ([C++](Easy/0242_Valid_Anagram.cpp))
 - Ugly Number ([C++](Easy/0263_Ugly_Number.cpp))
 - Reverse String ([C++](Easy/0344_Reverse_String.cpp))
@@ -69,7 +70,7 @@ Total Solved: 54
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 35 |
+| Easy | 36 |
 | Medium | 17 |
 | Hard | 2 |
 
