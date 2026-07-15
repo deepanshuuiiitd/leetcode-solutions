@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 55
+Total Solved: 56
 
 ## Easy
 
@@ -39,6 +39,7 @@ Total Solved: 55
 - Concatenation of Array ([C++](Easy/2058_Concatenation_of_Array.cpp))
 - Maximum Number of Words Found in Sentences ([C++](Easy/2219_Maximum_Number_of_Words_Found_in_Sentences.cpp))
 - Find First Palindromic String in the Array ([C++](Easy/2231_Find_First_Palindromic_String_in_the_Array.cpp))
+- GCD of Odd and Even Sums ([C++](Easy/3995_GCD_of_Odd_and_Even_Sums.cpp))
 - Concatenate Non-Zero Digits and Multiply by Sum I ([C++](Easy/4135_Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.cpp))
 
 ## Medium
@@ -70,7 +71,7 @@ Total Solved: 55
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 17 |
 | Hard | 2 |
 
