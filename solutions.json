@@ -713,5 +713,18 @@
     "submissionId": "2067859826",
     "timestamp": "1784060775",
     "path": "Easy/0234_Palindrome_Linked_List.cpp"
+  },
+  {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2068859880",
+    "timestamp": "1784132853",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
   }
 ]
