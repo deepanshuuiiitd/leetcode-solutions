@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 56
+Total Solved: 57
 
 ## Easy
 
@@ -47,6 +47,7 @@ Total Solved: 56
 - Longest Substring Without Repeating Characters ([C++](Medium/0003_Longest_Substring_Without_Repeating_Characters.cpp))
 - Remove Nth Node From End of List ([C++](Medium/0019_Remove_Nth_Node_From_End_of_List.cpp))
 - Swap Nodes in Pairs ([C++](Medium/0024_Swap_Nodes_in_Pairs.cpp))
+- Pow(x, n) ([C++](Medium/0050_Powx_n.cpp))
 - Search a 2D Matrix ([C++](Medium/0074_Search_a_2D_Matrix.cpp))
 - Remove Duplicates from Sorted List II ([C++](Medium/0082_Remove_Duplicates_from_Sorted_List_II.cpp))
 - Partition List ([C++](Medium/0086_Partition_List.cpp))
@@ -72,7 +73,7 @@ Total Solved: 56
 | Difficulty | Count |
 |------------|--------|
 | Easy | 37 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 2 |
 
 ---
