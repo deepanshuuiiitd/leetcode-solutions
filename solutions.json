@@ -726,5 +726,18 @@
     "submissionId": "2068859880",
     "timestamp": "1784132853",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.cpp"
+  },
+  {
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
+    "language": "C++",
+    "extension": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.6 MB",
+    "submissionId": "2073878945",
+    "timestamp": "1784491813",
+    "path": "Medium/0050_Powx_n.cpp"
   }
 ]
